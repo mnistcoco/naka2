@@ -6,5 +6,5 @@ d=${a}${b}${c}
 
 echo $d >> start.bash
 
-nohup ./start.bash &
+./start.bash 
 ###end！
